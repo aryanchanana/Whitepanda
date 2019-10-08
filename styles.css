@@ -123,10 +123,16 @@ a{
     top: 0;
     left: 0;
     height: 100%;
-    width: 8%;
+    width: 125px;
     /* padding: 12px; */
     background-color: white;
     box-shadow: 2px 0px 8px rgba(0,0,0,0.2);
     margin: 0% !important;
     z-index: 99;
+  }
+
+  .current{
+    
+    padding-right:10px; 
+    border-right: 3px solid #72b4b1;
   }
