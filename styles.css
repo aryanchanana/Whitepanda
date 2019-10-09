@@ -141,8 +141,8 @@ a{
     color: #72b4b1;
   }
   footer img{
-    width: 48px;
-    height: 48px;
+    width: 48px !important;
+    height: 48px !important;
     margin: 20px;
   }
   .social{
